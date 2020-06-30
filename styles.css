@@ -1,0 +1,145 @@
+#title{
+  background-color: #40bad5;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+
+}
+.fit{
+  width:80%;
+}
+.contact-button{
+  margin: 8% 3% 8% 0;
+}
+
+/* navigation bar */
+.navbar{
+  padding-bottom: 3rem
+}
+
+.nav-item{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  padding:0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.navbar-brand{
+  color: white;
+  font-family: 'Suez One', serif;
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+.navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color:transparent;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+}
+
+/* Features section */
+
+#Features{
+   padding:7% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding: 6%;
+}
+.feat{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+.icon{
+  color:#40bad5 ;
+  margin: 1rem;
+}
+.icon:hover{
+  color:#000;
+}
+
+/* Testimonials Section */
+#Testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #40bad5;
+  color: #fff;
+}
+.Ardra{
+  width:12%;
+  border-radius:50%;
+}
+.Test{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: lighter;
+  font-size: 2rem;
+}
+
+/* press */
+
+#press{
+  background-color: #40bad5;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-img{
+  width: 15%;
+  margin: 20px 20px 30px;
+}
+
+/* pricing */
+#Pricing{
+  padding: 3% 5% 3%;
+  text-align: center;
+  background-color: #fff;
+}
+
+.Price{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 50px;
+}
+.Price2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+
+/* cta */
+
+#cta{
+    background-color: #40bad5;
+    padding: 5% 5% 5%;
+    text-align: center;
+}
+.cta1{
+  font-size: 2rem;
+  padding: 50px;
+}
+
+/* footer */
+
+#footer{
+  background-color: #000;
+  padding: 1% 5% 1%;
+  text-align: center;
+}
+.copy{
+  color: #fff;
+}
+.foot{
+  color: #fff;
+  width: 70px;
+  margin-bottom: 20px;
+}
